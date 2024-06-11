@@ -1,17 +1,17 @@
-# Dynamic Page of TANN TRIM
+# TANN TRIM Website
 
-This is the frontend Part
+This is the frontend Part: https://github.com/sneha2002-alt/Frontend.git
 
-For backend :
+For backend : https://github.com/sneha2002-alt/Backend.git
 
-**important because of deploying backend on render the free instance will spin down with inactivity, which can delay requests by 50 seconds or more.**
+
 
 - Deployed Frontend Website on Netlify:
 - Deployed Backend Website on Render:
 
 ## Overview
 
-This is a Fully Responsive Dynamic Page of TANN TRIM Website built with the (React.js ,Express.js, Node.js,REST API).This Website has two part frontend and backend.
+This is a Fully Responsive Dynamic Page of TANN TRIM Website built with the (React.js ,Express.js, Node.js,REST API, Axios).This Website has two part frontend and backend.
 
 - **Frontend**: Frontend (home page) build using react js. Try to implement and match the design which is given in figma. Few library I used are React-Icons for icons and Axios for fetching api. Home Page contains three major Component:
 
@@ -46,7 +46,7 @@ Clone the repository to your local machine:
 Navigate to the project directory:
 
 ```bash
-cd tann trim
+cd tann trim frontend
 ```
 
 Install the frontend dependencies:
@@ -78,7 +78,7 @@ Create a .env file in the backend directory, and set the following environment v
 makefile
 
 ```bash
-PORT=8000
+PORT=3000
 ```
 
 Start the backend server:
