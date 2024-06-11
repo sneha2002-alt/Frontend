@@ -7,7 +7,7 @@ For backend : https://github.com/sneha2002-alt/Backend.git
 
 
 - Deployed Frontend Website on Netlify:
-- Deployed Backend Website on Render:
+- Deployed Backend Website on Render:https://backend-1-78zi.onrender.com
 
 ## Overview
 
